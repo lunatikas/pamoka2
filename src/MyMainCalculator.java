@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class MyMainCalculator {
     public static void main(String[] args) {
-        teigiamasNeigiamas a= new teigiamasNeigiamas();
+        teigiamasNeigiamas a = new teigiamasNeigiamas();
 
-        System.out.println(a.a("tomas"));
+        System.out.println(a.arLyginis(-4));
 
 
     }
